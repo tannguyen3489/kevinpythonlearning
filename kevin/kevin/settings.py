@@ -127,6 +127,7 @@ INSTALLED_APPS = (
 	'django.contrib.admin',
 	'django.contrib.flatpages',
 	'search',
+	'chapter4',
 
     # Uncomment the next line to enable the admin:
     # 'django.contrib.admin',
